@@ -1,0 +1,88 @@
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\obj\Debug\net8.0\Entity.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\Entity\obj\Debug\net8.0\ref\Entity.dll
+E:\IGC\Entity\bin\Debug\net8.0\Entity.deps.json
+E:\IGC\Entity\bin\Debug\net8.0\Entity.dll
+E:\IGC\Entity\bin\Debug\net8.0\Entity.pdb
+E:\IGC\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+E:\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.vb
+E:\IGC\Entity\obj\Debug\net8.0\Entity.vbproj.CoreCompileInputs.cache
+E:\IGC\Entity\obj\Debug\net8.0\Entity.dll
+E:\IGC\Entity\obj\Debug\net8.0\refint\Entity.dll
+E:\IGC\Entity\obj\Debug\net8.0\Entity.pdb
+E:\IGC\Entity\obj\Debug\net8.0\ref\Entity.dll
+D:\IGC\Entity\bin\Debug\net8.0\Entity.deps.json
+D:\IGC\Entity\bin\Debug\net8.0\Entity.dll
+D:\IGC\Entity\bin\Debug\net8.0\Entity.pdb
+D:\IGC\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+D:\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.vb
+D:\IGC\Entity\obj\Debug\net8.0\Entity.vbproj.CoreCompileInputs.cache
+D:\IGC\Entity\obj\Debug\net8.0\Entity.dll
+D:\IGC\Entity\obj\Debug\net8.0\refint\Entity.dll
+D:\IGC\Entity\obj\Debug\net8.0\Entity.pdb
+D:\IGC\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\obj\Debug\net8.0\Entity.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\obj\Debug\net8.0\Entity.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\Entity\obj\Debug\net8.0\ref\Entity.dll
+D:\IGC Production\IGC\Entity\bin\Debug\net8.0\Entity.deps.json
+D:\IGC Production\IGC\Entity\bin\Debug\net8.0\Entity.dll
+D:\IGC Production\IGC\Entity\bin\Debug\net8.0\Entity.pdb
+D:\IGC Production\IGC\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGC Production\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+D:\IGC Production\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.vb
+D:\IGC Production\IGC\Entity\obj\Debug\net8.0\Entity.vbproj.CoreCompileInputs.cache
+D:\IGC Production\IGC\Entity\obj\Debug\net8.0\Entity.dll
+D:\IGC Production\IGC\Entity\obj\Debug\net8.0\refint\Entity.dll
+D:\IGC Production\IGC\Entity\obj\Debug\net8.0\Entity.pdb
+D:\IGC Production\IGC\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Debug\net8.0\Entity.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\obj\Debug\net8.0\Entity.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\Entity\obj\Debug\net8.0\ref\Entity.dll

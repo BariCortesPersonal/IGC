@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Presentation\\Presentation.vbproj",
+        "Action": "Start",
+        "DebugTarget": "Presentation"
+      }
+    ]
+  }
+]

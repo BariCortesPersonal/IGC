@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|c:\\users\\bari_\\onedrive\\desktop\\uat\\igc\\presentation\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|solutionrelative:presentation\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|c:\\users\\bari_\\onedrive\\desktop\\uat\\igc\\presentation\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|solutionrelative:presentation\\main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|c:\\users\\bari_\\onedrive\\desktop\\uat\\igc\\presentation\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|solutionrelative:presentation\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|c:\\users\\bari_\\onedrive\\desktop\\uat\\igc\\presentation\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|solutionrelative:presentation\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Form2.vb",
+              "RelativeDocumentMoniker": "Presentation\\Form2.vb",
+              "ToolTip": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Form2.vb",
+              "RelativeToolTip": "Presentation\\Form2.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-11T14:13:20.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Form2.vb",
+              "RelativeDocumentMoniker": "Presentation\\Form2.vb",
+              "ToolTip": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Form2.vb [Design]",
+              "RelativeToolTip": "Presentation\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-11T14:10:41.655Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.vb",
+              "DocumentMoniker": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Main.vb",
+              "RelativeDocumentMoniker": "Presentation\\Main.vb",
+              "ToolTip": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Main.vb",
+              "RelativeToolTip": "Presentation\\Main.vb",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAjwEsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-10T18:56:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Main.vb",
+              "RelativeDocumentMoniker": "Presentation\\Main.vb",
+              "ToolTip": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Main.vb [Design]",
+              "RelativeToolTip": "Presentation\\Main.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-09T03:44:33.708Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\bin\Release\net8.0\Entity.deps.json
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\bin\Release\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\bin\Release\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Release\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Release\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Release\net8.0\Entity.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Release\net8.0\Entity.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Release\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Release\net8.0\refint\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Release\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Entity\obj\Release\net8.0\ref\Entity.dll

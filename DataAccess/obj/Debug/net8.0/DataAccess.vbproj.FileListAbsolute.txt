@@ -1,0 +1,116 @@
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\Inter_Global_Crypto\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+E:\IGC\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+E:\IGC\DataAccess\bin\Debug\net8.0\DataAccess.dll
+E:\IGC\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+E:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+E:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.vb
+E:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.CoreCompileInputs.cache
+E:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.dll
+E:\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+E:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+E:\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+E:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.AssemblyReference.cache
+E:\IGC\DataAccess\bin\Debug\net8.0\Entity.dll
+E:\IGC\DataAccess\bin\Debug\net8.0\Entity.pdb
+E:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.Up2Date
+D:\IGC\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\IGC\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\IGC\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\IGC\DataAccess\bin\Debug\net8.0\Entity.dll
+D:\IGC\DataAccess\bin\Debug\net8.0\Entity.pdb
+D:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.AssemblyReference.cache
+D:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.vb
+D:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.CoreCompileInputs.cache
+D:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.Up2Date
+D:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.AssemblyReference.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.Up2Date
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\Projects\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.AssemblyReference.cache
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.Up2Date
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\Testing\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\IGC Production\IGC\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\IGC Production\IGC\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\IGC Production\IGC\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\IGC Production\IGC\DataAccess\bin\Debug\net8.0\Entity.dll
+D:\IGC Production\IGC\DataAccess\bin\Debug\net8.0\Entity.pdb
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.AssemblyReference.cache
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.vb
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.CoreCompileInputs.cache
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.Up2Date
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\IGC Production\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.AssemblyReference.cache
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.Up2Date
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\bin\Debug\net8.0\Entity.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\bin\Debug\net8.0\Entity.pdb
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.AssemblyReference.cache
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.vb
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.vbproj.Up2Date
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
