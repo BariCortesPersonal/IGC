@@ -22,12 +22,13 @@ Partial Class frmEmptyTransactions
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle3 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle4 As DataGridViewCellStyle = New DataGridViewCellStyle()
-        Dim DataGridViewCellStyle5 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle8 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle9 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle10 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle6 As DataGridViewCellStyle = New DataGridViewCellStyle()
+        Dim DataGridViewCellStyle7 As DataGridViewCellStyle = New DataGridViewCellStyle()
         gbTransaction = New GroupBox()
+        Label7 = New Label()
         btnNewCurrency = New Button()
         cmbProvider_T = New ComboBox()
         btnSave = New Button()
@@ -78,11 +79,11 @@ Partial Class frmEmptyTransactions
         cmbAgent_C = New ComboBox()
         Label5 = New Label()
         txtNet_C = New TextBox()
-        Label6 = New Label()
+        lblNet_C = New Label()
         txtGass_C = New TextBox()
         lblGass_C = New Label()
         txtGrossD_C = New TextBox()
-        Label8 = New Label()
+        lblGross_C = New Label()
         gbTransaction.SuspendLayout()
         tcTransactionsDetails.SuspendLayout()
         tpTransactions.SuspendLayout()
@@ -96,6 +97,7 @@ Partial Class frmEmptyTransactions
         ' gbTransaction
         ' 
         gbTransaction.BackColor = Color.Lavender
+        gbTransaction.Controls.Add(Label7)
         gbTransaction.Controls.Add(btnNewCurrency)
         gbTransaction.Controls.Add(cmbProvider_T)
         gbTransaction.Controls.Add(btnSave)
@@ -125,11 +127,23 @@ Partial Class frmEmptyTransactions
         gbTransaction.Tag = ""
         gbTransaction.Text = "Transaction"
         ' 
+        ' Label7
+        ' 
+        Label7.AutoSize = True
+        Label7.Font = New Font("Segoe UI", 7.8F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
+        Label7.ForeColor = SystemColors.ControlDarkDark
+        Label7.Location = New Point(680, 166)
+        Label7.Name = "Label7"
+        Label7.Size = New Size(113, 17)
+        Label7.TabIndex = 20
+        Label7.Text = "Add New Currency"
+        ' 
         ' btnNewCurrency
         ' 
-        btnNewCurrency.Location = New Point(631, 161)
+        btnNewCurrency.Font = New Font("Segoe UI", 9F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
+        btnNewCurrency.Location = New Point(645, 159)
         btnNewCurrency.Name = "btnNewCurrency"
-        btnNewCurrency.Size = New Size(30, 32)
+        btnNewCurrency.Size = New Size(30, 30)
         btnNewCurrency.TabIndex = 19
         btnNewCurrency.Text = "+"
         btnNewCurrency.UseVisualStyleBackColor = True
@@ -137,21 +151,21 @@ Partial Class frmEmptyTransactions
         ' cmbProvider_T
         ' 
         cmbProvider_T.DropDownStyle = ComboBoxStyle.DropDownList
-        cmbProvider_T.Font = New Font("Segoe UI", 7.8F, FontStyle.Italic)
+        cmbProvider_T.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
         cmbProvider_T.ForeColor = Color.Black
         cmbProvider_T.FormattingEnabled = True
         cmbProvider_T.Location = New Point(280, 117)
         cmbProvider_T.Name = "cmbProvider_T"
-        cmbProvider_T.Size = New Size(338, 25)
+        cmbProvider_T.Size = New Size(338, 31)
         cmbProvider_T.TabIndex = 18
         ' 
         ' btnSave
         ' 
         btnSave.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic)
         btnSave.ForeColor = Color.Black
-        btnSave.Location = New Point(840, 332)
+        btnSave.Location = New Point(842, 338)
         btnSave.Name = "btnSave"
-        btnSave.Size = New Size(178, 44)
+        btnSave.Size = New Size(165, 41)
         btnSave.TabIndex = 17
         btnSave.Text = "Create Transaction"
         btnSave.UseVisualStyleBackColor = True
@@ -160,9 +174,9 @@ Partial Class frmEmptyTransactions
         ' 
         btnCalculate.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic)
         btnCalculate.ForeColor = Color.Black
-        btnCalculate.Location = New Point(840, 275)
+        btnCalculate.Location = New Point(842, 281)
         btnCalculate.Name = "btnCalculate"
-        btnCalculate.Size = New Size(178, 44)
+        btnCalculate.Size = New Size(165, 41)
         btnCalculate.TabIndex = 16
         btnCalculate.Text = "Re-Calculate"
         btnCalculate.UseVisualStyleBackColor = True
@@ -171,9 +185,9 @@ Partial Class frmEmptyTransactions
         ' 
         btnClear.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic)
         btnClear.ForeColor = Color.Black
-        btnClear.Location = New Point(840, 217)
+        btnClear.Location = New Point(842, 223)
         btnClear.Name = "btnClear"
-        btnClear.Size = New Size(178, 44)
+        btnClear.Size = New Size(165, 41)
         btnClear.TabIndex = 15
         btnClear.Text = "Clear Data"
         btnClear.UseVisualStyleBackColor = True
@@ -331,13 +345,13 @@ Partial Class frmEmptyTransactions
         cmbCurrency_T.BackColor = SystemColors.HighlightText
         cmbCurrency_T.DropDownStyle = ComboBoxStyle.DropDownList
         cmbCurrency_T.FlatStyle = FlatStyle.System
-        cmbCurrency_T.Font = New Font("Segoe UI", 7.8F, FontStyle.Italic)
+        cmbCurrency_T.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
         cmbCurrency_T.ForeColor = Color.Black
         cmbCurrency_T.FormattingEnabled = True
         cmbCurrency_T.Location = New Point(280, 162)
         cmbCurrency_T.Margin = New Padding(2, 1, 2, 1)
         cmbCurrency_T.Name = "cmbCurrency_T"
-        cmbCurrency_T.Size = New Size(338, 25)
+        cmbCurrency_T.Size = New Size(338, 31)
         cmbCurrency_T.TabIndex = 1
         ' 
         ' tcTransactionsDetails
@@ -392,33 +406,33 @@ Partial Class frmEmptyTransactions
         ' dgvTransactionLine
         ' 
         dgvTransactionLine.BackgroundColor = Color.White
-        DataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle1.BackColor = SystemColors.Control
-        DataGridViewCellStyle1.Font = New Font("Segoe UI", 9F)
-        DataGridViewCellStyle1.ForeColor = Color.Black
-        DataGridViewCellStyle1.SelectionBackColor = SystemColors.Highlight
-        DataGridViewCellStyle1.SelectionForeColor = SystemColors.HighlightText
-        DataGridViewCellStyle1.WrapMode = DataGridViewTriState.True
-        dgvTransactionLine.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle8.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle8.BackColor = SystemColors.Control
+        DataGridViewCellStyle8.Font = New Font("Segoe UI", 9F)
+        DataGridViewCellStyle8.ForeColor = Color.Black
+        DataGridViewCellStyle8.SelectionBackColor = SystemColors.Highlight
+        DataGridViewCellStyle8.SelectionForeColor = SystemColors.HighlightText
+        DataGridViewCellStyle8.WrapMode = DataGridViewTriState.True
+        dgvTransactionLine.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle8
         dgvTransactionLine.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle2.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = SystemColors.Window
-        DataGridViewCellStyle2.Font = New Font("Segoe UI", 9F)
-        DataGridViewCellStyle2.ForeColor = Color.Black
-        DataGridViewCellStyle2.SelectionBackColor = SystemColors.Highlight
-        DataGridViewCellStyle2.SelectionForeColor = SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = DataGridViewTriState.False
-        dgvTransactionLine.DefaultCellStyle = DataGridViewCellStyle2
+        DataGridViewCellStyle9.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle9.BackColor = SystemColors.Window
+        DataGridViewCellStyle9.Font = New Font("Segoe UI", 9F)
+        DataGridViewCellStyle9.ForeColor = Color.Black
+        DataGridViewCellStyle9.SelectionBackColor = SystemColors.Highlight
+        DataGridViewCellStyle9.SelectionForeColor = SystemColors.HighlightText
+        DataGridViewCellStyle9.WrapMode = DataGridViewTriState.False
+        dgvTransactionLine.DefaultCellStyle = DataGridViewCellStyle9
         dgvTransactionLine.Location = New Point(10, 314)
         dgvTransactionLine.Name = "dgvTransactionLine"
-        DataGridViewCellStyle3.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle3.BackColor = SystemColors.Control
-        DataGridViewCellStyle3.Font = New Font("Segoe UI", 9F)
-        DataGridViewCellStyle3.ForeColor = Color.Black
-        DataGridViewCellStyle3.SelectionBackColor = SystemColors.Highlight
-        DataGridViewCellStyle3.SelectionForeColor = SystemColors.HighlightText
-        DataGridViewCellStyle3.WrapMode = DataGridViewTriState.True
-        dgvTransactionLine.RowHeadersDefaultCellStyle = DataGridViewCellStyle3
+        DataGridViewCellStyle10.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle10.BackColor = SystemColors.Control
+        DataGridViewCellStyle10.Font = New Font("Segoe UI", 9F)
+        DataGridViewCellStyle10.ForeColor = Color.Black
+        DataGridViewCellStyle10.SelectionBackColor = SystemColors.Highlight
+        DataGridViewCellStyle10.SelectionForeColor = SystemColors.HighlightText
+        DataGridViewCellStyle10.WrapMode = DataGridViewTriState.True
+        dgvTransactionLine.RowHeadersDefaultCellStyle = DataGridViewCellStyle10
         dgvTransactionLine.RowHeadersWidth = 51
         dgvTransactionLine.Size = New Size(995, 323)
         dgvTransactionLine.TabIndex = 0
@@ -622,11 +636,11 @@ Partial Class frmEmptyTransactions
         pnCommissions.Controls.Add(cmbAgent_C)
         pnCommissions.Controls.Add(Label5)
         pnCommissions.Controls.Add(txtNet_C)
-        pnCommissions.Controls.Add(Label6)
+        pnCommissions.Controls.Add(lblNet_C)
         pnCommissions.Controls.Add(txtGass_C)
         pnCommissions.Controls.Add(lblGass_C)
         pnCommissions.Controls.Add(txtGrossD_C)
-        pnCommissions.Controls.Add(Label8)
+        pnCommissions.Controls.Add(lblGross_C)
         pnCommissions.Location = New Point(4, 3)
         pnCommissions.Name = "pnCommissions"
         pnCommissions.Size = New Size(1018, 645)
@@ -635,23 +649,23 @@ Partial Class frmEmptyTransactions
         ' dgvCommissions
         ' 
         dgvCommissions.BackgroundColor = SystemColors.ControlLightLight
-        DataGridViewCellStyle4.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle4.BackColor = SystemColors.Control
-        DataGridViewCellStyle4.Font = New Font("Segoe UI", 9F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
-        DataGridViewCellStyle4.ForeColor = Color.Black
-        DataGridViewCellStyle4.SelectionBackColor = SystemColors.Highlight
-        DataGridViewCellStyle4.SelectionForeColor = SystemColors.HighlightText
-        DataGridViewCellStyle4.WrapMode = DataGridViewTriState.True
-        dgvCommissions.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle4
+        DataGridViewCellStyle6.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle6.BackColor = SystemColors.Control
+        DataGridViewCellStyle6.Font = New Font("Segoe UI", 9F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
+        DataGridViewCellStyle6.ForeColor = Color.Black
+        DataGridViewCellStyle6.SelectionBackColor = SystemColors.Highlight
+        DataGridViewCellStyle6.SelectionForeColor = SystemColors.HighlightText
+        DataGridViewCellStyle6.WrapMode = DataGridViewTriState.True
+        dgvCommissions.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle6
         dgvCommissions.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle5.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle5.BackColor = SystemColors.Window
-        DataGridViewCellStyle5.Font = New Font("Segoe UI", 9F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
-        DataGridViewCellStyle5.ForeColor = Color.Black
-        DataGridViewCellStyle5.SelectionBackColor = SystemColors.Highlight
-        DataGridViewCellStyle5.SelectionForeColor = SystemColors.HighlightText
-        DataGridViewCellStyle5.WrapMode = DataGridViewTriState.False
-        dgvCommissions.DefaultCellStyle = DataGridViewCellStyle5
+        DataGridViewCellStyle7.Alignment = DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle7.BackColor = SystemColors.Window
+        DataGridViewCellStyle7.Font = New Font("Segoe UI", 9F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
+        DataGridViewCellStyle7.ForeColor = Color.Black
+        DataGridViewCellStyle7.SelectionBackColor = SystemColors.Highlight
+        DataGridViewCellStyle7.SelectionForeColor = SystemColors.HighlightText
+        DataGridViewCellStyle7.WrapMode = DataGridViewTriState.False
+        dgvCommissions.DefaultCellStyle = DataGridViewCellStyle7
         dgvCommissions.Location = New Point(10, 314)
         dgvCommissions.Name = "dgvCommissions"
         dgvCommissions.RowHeadersWidth = 51
@@ -775,17 +789,17 @@ Partial Class frmEmptyTransactions
         txtNet_C.TabIndex = 62
         txtNet_C.TextAlign = HorizontalAlignment.Right
         ' 
-        ' Label6
+        ' lblNet_C
         ' 
-        Label6.AutoSize = True
-        Label6.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic)
-        Label6.ForeColor = Color.Black
-        Label6.Location = New Point(32, 221)
-        Label6.Margin = New Padding(2, 0, 2, 0)
-        Label6.Name = "Label6"
-        Label6.Size = New Size(147, 23)
-        Label6.TabIndex = 65
-        Label6.Text = "Net Disbursement:"
+        lblNet_C.AutoSize = True
+        lblNet_C.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic)
+        lblNet_C.ForeColor = Color.Black
+        lblNet_C.Location = New Point(32, 221)
+        lblNet_C.Margin = New Padding(2, 0, 2, 0)
+        lblNet_C.Name = "lblNet_C"
+        lblNet_C.Size = New Size(147, 23)
+        lblNet_C.TabIndex = 65
+        lblNet_C.Text = "Net Disbursement:"
         ' 
         ' txtGass_C
         ' 
@@ -824,17 +838,17 @@ Partial Class frmEmptyTransactions
         txtGrossD_C.TabIndex = 60
         txtGrossD_C.TextAlign = HorizontalAlignment.Right
         ' 
-        ' Label8
+        ' lblGross_C
         ' 
-        Label8.AutoSize = True
-        Label8.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic)
-        Label8.ForeColor = Color.Black
-        Label8.Location = New Point(32, 130)
-        Label8.Margin = New Padding(2, 0, 2, 0)
-        Label8.Name = "Label8"
-        Label8.Size = New Size(161, 23)
-        Label8.TabIndex = 63
-        Label8.Text = "Gross Disbursement:"
+        lblGross_C.AutoSize = True
+        lblGross_C.Font = New Font("Segoe UI", 10.2F, FontStyle.Italic)
+        lblGross_C.ForeColor = Color.Black
+        lblGross_C.Location = New Point(32, 130)
+        lblGross_C.Margin = New Padding(2, 0, 2, 0)
+        lblGross_C.Name = "lblGross_C"
+        lblGross_C.Size = New Size(161, 23)
+        lblGross_C.TabIndex = 63
+        lblGross_C.Text = "Gross Disbursement:"
         ' 
         ' frmEmptyTransactions
         ' 
@@ -912,9 +926,10 @@ Partial Class frmEmptyTransactions
     Friend WithEvents cmbAgent_C As ComboBox
     Friend WithEvents Label5 As Label
     Friend WithEvents txtNet_C As TextBox
-    Friend WithEvents Label6 As Label
+    Friend WithEvents lblNet_C As Label
     Friend WithEvents txtGass_C As TextBox
     Friend WithEvents lblGass_C As Label
     Friend WithEvents txtGrossD_C As TextBox
-    Friend WithEvents Label8 As Label
+    Friend WithEvents lblGross_C As Label
+    Friend WithEvents Label7 As Label
 End Class

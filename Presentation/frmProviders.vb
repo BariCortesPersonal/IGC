@@ -159,8 +159,11 @@ Public Class frmProviders
         If Len(Me.txtProvider_ID.Text) > 0 Then
             If Len(Me.txtFist_Name.Text) > 0 Then
                 Call Create_Update_Provider()
+                Call Clear(pnProviderDetails)
+                Me.dgvProvider.DataSource = Nothing
+                Call LoadProviders()
             Else
-                MsgBox("The First Name field cannot be empty.")
+                MsgBox("The First Name field cannot be Empty.")
             End If
         End If
         'Me.txtFist_Name.Text = IIf(Len(dgvProvider.Rows(e.RowIndex).DataBoundItem(1).ToString) > 0, dgvProvider.Rows(e.RowIndex).DataBoundItem(1).ToString, dgvProvider.Rows(e.RowIndex).DataBoundItem(3).ToString)
@@ -193,6 +196,10 @@ Public Class frmProviders
         Call LoadProviders()
     End Sub
 
+
+    Private Sub btnDeleteProvider_Click(sender As Object, e As EventArgs) Handles btnDeleteProvider.Click
+
+    End Sub
 
     Private Sub HideControlls(ByVal c1 As Control)
         For Each c As Control In c1.Controls

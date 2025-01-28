@@ -128,3 +128,4 @@ C:\Users\bari_\OneDrive\Desktop\Production\IGC\BusinessLogic\obj\Debug\net8.0\Bu
 C:\Users\bari_\OneDrive\Desktop\Production\IGC\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 C:\Users\bari_\OneDrive\Desktop\Production\IGC\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 C:\Users\bari_\OneDrive\Desktop\Production\IGC\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\BusinessLogic\obj\Debug\net8.0\BusinessLogic.sourcelink.json

@@ -114,3 +114,4 @@ C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataA
 C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
 C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\DataAccess.pdb
 C:\Users\bari_\OneDrive\Desktop\Production\IGC\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json

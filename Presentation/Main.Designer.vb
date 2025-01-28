@@ -271,7 +271,7 @@ Partial Class Main
         ' 
         PictureBox1.BackColor = SystemColors.ControlLight
         PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), Image)
-        PictureBox1.Location = New Point(11, 12)
+        PictureBox1.Location = New Point(3, 12)
         PictureBox1.Margin = New Padding(2, 3, 2, 3)
         PictureBox1.Name = "PictureBox1"
         PictureBox1.Size = New Size(222, 84)
@@ -336,10 +336,11 @@ Partial Class Main
         btnClose.BackColor = Color.Transparent
         btnClose.FlatAppearance.BorderColor = Color.MediumBlue
         btnClose.FlatStyle = FlatStyle.Flat
-        btnClose.ForeColor = Color.MediumBlue
-        btnClose.Location = New Point(1421, 5)
+        btnClose.Font = New Font("Segoe UI", 7.8F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
+        btnClose.ForeColor = Color.CornflowerBlue
+        btnClose.Location = New Point(1426, 5)
         btnClose.Name = "btnClose"
-        btnClose.Size = New Size(30, 29)
+        btnClose.Size = New Size(28, 27)
         btnClose.TabIndex = 10
         btnClose.Text = "X"
         btnClose.TextAlign = ContentAlignment.TopCenter
@@ -351,10 +352,11 @@ Partial Class Main
         btnHide.BackColor = Color.Transparent
         btnHide.FlatAppearance.BorderColor = Color.MediumBlue
         btnHide.FlatStyle = FlatStyle.Flat
-        btnHide.ForeColor = Color.MediumBlue
-        btnHide.Location = New Point(1382, 5)
+        btnHide.Font = New Font("Segoe UI", 7.8F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
+        btnHide.ForeColor = Color.CornflowerBlue
+        btnHide.Location = New Point(1387, 5)
         btnHide.Name = "btnHide"
-        btnHide.Size = New Size(30, 29)
+        btnHide.Size = New Size(28, 27)
         btnHide.TabIndex = 11
         btnHide.Text = "="
         btnHide.TextAlign = ContentAlignment.TopCenter

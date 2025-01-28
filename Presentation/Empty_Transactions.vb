@@ -338,7 +338,7 @@ Public Class frmEmptyTransactions
 
 
 
-    Private Sub cmbAgent_C_DropDown(sender As Object, e As EventArgs)
+    Private Sub cmbAgent_C_DropDown(sender As Object, e As EventArgs) Handles cmbAgent_C.DropDown
         cmbAgent_C.DataSource = Nothing
         cmbAgent_C.Items.Clear()
         cmbCurrency_C.DataSource = Nothing
@@ -351,12 +351,12 @@ Public Class frmEmptyTransactions
         cmbAgent_C.DisplayMember = "Full_Name"
     End Sub
 
-    Private Sub cmbAgent_C_TextChanged(sender As Object, e As EventArgs)
+    Private Sub cmbAgent_C_TextChanged(sender As Object, e As EventArgs) Handles cmbAgent_C.SelectionChangeCommitted
         cmbCurrency_C.Enabled = True
         cmbCurrency_C.Focus()
     End Sub
 
-    Private Sub cmbCurrency_C_DropDown(sender As Object, e As EventArgs)
+    Private Sub cmbCurrency_C_DropDown(sender As Object, e As EventArgs) Handles cmbCurrency_C.DropDown
         cmbCurrency_C.DataSource = Nothing
         cmbCurrency_C.DataBindings.Clear()
         cmbCurrency_C.Items.Clear()
@@ -368,13 +368,19 @@ Public Class frmEmptyTransactions
 
 
 
-    Private Sub cmbCurrency_C_TextChanged(sender As Object, e As EventArgs)
-        txtGrossD_C.Enabled = True
-        txtNet_C.Enabled = True
+    Private Sub cmbCurrency_C_TextChanged(sender As Object, e As EventArgs) Handles cmbCurrency_C.SelectionChangeCommitted
         chbGassFee_C.Enabled = True
         chbGassFee_C.Checked = True
 
         CalculateCommission()
+    End Sub
+
+    Private Sub Label8_Click_1(sender As Object, e As EventArgs) Handles lblGross_C.Click
+        txtGrossD_C.Enabled = True
+    End Sub
+
+    Private Sub lblNet_C_Click(sender As Object, e As EventArgs) Handles lblNet_C.Click
+        txtNet_C.Enabled = True
     End Sub
 
     'Private Sub Label7_Click(sender As Object, e As EventArgs) Handles lblGass_C.DoubleClick
@@ -462,13 +468,13 @@ Public Class frmEmptyTransactions
     End Sub
 
 
-    Private Sub txtNet_C_Click(sender As Object, e As EventArgs)
+    Private Sub txtNet_C_Click(sender As Object, e As EventArgs) Handles txtNet_C.Click
         If txtNet_C.Enabled = True Then
             txtNet_C.Text = ""
         End If
     End Sub
 
-    Private Sub txtNet_C_MouseLeave(sender As Object, e As EventArgs)
+    Private Sub txtNet_C_MouseLeave(sender As Object, e As EventArgs) Handles txtNet_C.MouseLeave
         If txtNet_C.Text = "" Then
             txtNet_C.Text = "0.000"
         End If
@@ -478,13 +484,13 @@ Public Class frmEmptyTransactions
     End Sub
 
 
-    Private Sub txtGrossD_C_Click(sender As Object, e As EventArgs)
+    Private Sub txtGrossD_C_Click(sender As Object, e As EventArgs) Handles txtGrossD_C.Click
         If txtGrossD_C.Enabled = True Then
             txtGrossD_C.Text = ""
         End If
     End Sub
 
-    Private Sub txtGrossD_C_MouseLeave(sender As Object, e As EventArgs)
+    Private Sub txtGrossD_C_MouseLeave(sender As Object, e As EventArgs) Handles txtGrossD_C.MouseLeave
         If txtGrossD_C.Text = "" Then
             txtGrossD_C.Text = "0.000"
         End If
@@ -494,13 +500,13 @@ Public Class frmEmptyTransactions
     End Sub
 
 
-    Private Sub txtGass_C_Click(sender As Object, e As EventArgs)
+    Private Sub txtGass_C_Click(sender As Object, e As EventArgs) Handles txtGass_C.Click
         If txtGass_C.Enabled = True Then
             txtGass_C.Text = ""
         End If
     End Sub
 
-    Private Sub txtGass_C_MouseLeave(sender As Object, e As EventArgs)
+    Private Sub txtGass_C_MouseLeave(sender As Object, e As EventArgs) Handles txtGass_C.MouseLeave
         If txtGass_C.Text = "" Then
             txtGass_C.Text = "0.000"
         End If
@@ -566,7 +572,7 @@ Public Class frmEmptyTransactions
         dtpTransactionDate_T.Enabled = True
     End Sub
 
-    Private Sub chbGassFee_C_CheckedChanged(sender As Object, e As EventArgs)
+    Private Sub chbGassFee_C_CheckedChanged(sender As Object, e As EventArgs) Handles chbGassFee_C.CheckedChanged
         If chbGassFee_C.Checked = True Then
             txtGass_C.Enabled = False
             txtGass_C.Text = "0.000"

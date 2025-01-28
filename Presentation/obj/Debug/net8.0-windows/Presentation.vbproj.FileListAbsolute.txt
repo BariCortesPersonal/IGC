@@ -399,3 +399,4 @@ C:\Users\bari_\OneDrive\Desktop\Production\IGC\Presentation\obj\Debug\net8.0-win
 C:\Users\bari_\OneDrive\Desktop\Production\IGC\Presentation\obj\Debug\net8.0-windows\ref\Presentation.dll
 C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Presentation\obj\Debug\net8.0-windows\Presentation.frmProviders.resources
 C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Presentation\obj\Debug\net8.0-windows\Presentation.frmUserManagement.resources
+C:\Users\bari_\OneDrive\Desktop\UAT\IGC\Presentation\obj\Debug\net8.0-windows\Presentation.sourcelink.json

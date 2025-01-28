@@ -151,7 +151,6 @@ Partial Class frmLogin
         FormBorderStyle = FormBorderStyle.None
         Icon = CType(resources.GetObject("$this.Icon"), Icon)
         Name = "frmLogin"
-        ShowIcon = False
         StartPosition = FormStartPosition.CenterScreen
         Text = "frmLogin"
         CType(PictureBox1, ComponentModel.ISupportInitialize).EndInit()

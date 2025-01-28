@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|c:\\users\\bari_\\onedrive\\desktop\\uat\\igc\\presentation\\frmproviders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|solutionrelative:presentation\\frmproviders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|c:\\users\\bari_\\onedrive\\desktop\\uat\\igc\\presentation\\frmproviders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|solutionrelative:presentation\\frmproviders.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|c:\\users\\bari_\\onedrive\\desktop\\uat\\igc\\presentation\\empty_transactions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{14E52C64-A86D-431D-A3D4-6D212577FC56}|Presentation\\Presentation.vbproj|solutionrelative:presentation\\empty_transactions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -31,44 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmProviders.vb",
-              "DocumentMoniker": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\frmProviders.vb",
-              "RelativeDocumentMoniker": "Presentation\\frmProviders.vb",
-              "ToolTip": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\frmProviders.vb",
-              "RelativeToolTip": "Presentation\\frmProviders.vb",
-              "ViewState": "AgIAALEAAAAAAAAAAAASwJ4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-01-21T05:29:43.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmProviders.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\frmProviders.vb",
-              "RelativeDocumentMoniker": "Presentation\\frmProviders.vb",
-              "ToolTip": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\frmProviders.vb [Design]",
-              "RelativeToolTip": "Presentation\\frmProviders.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-01-15T18:34:37.991Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Empty_Transactions.vb",
               "DocumentMoniker": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Empty_Transactions.vb",
               "RelativeDocumentMoniker": "Presentation\\Empty_Transactions.vb",
               "ToolTip": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Empty_Transactions.vb",
               "RelativeToolTip": "Presentation\\Empty_Transactions.vb",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAuwHcBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-01-14T03:32:21.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Empty_Transactions.vb [Design]",
               "DocumentMoniker": "C:\\Users\\bari_\\OneDrive\\Desktop\\UAT\\IGC\\Presentation\\Empty_Transactions.vb",
               "RelativeDocumentMoniker": "Presentation\\Empty_Transactions.vb",
